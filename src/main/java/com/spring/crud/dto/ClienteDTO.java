@@ -13,6 +13,6 @@ public class ClienteDTO {
     private Long id;
     private String nome;
     private String cpf;
-    private String enderco;
+    private String endereco;
     private String email;
 }
